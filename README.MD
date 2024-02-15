@@ -1,14 +1,3 @@
-# smooth-dodos-build
-
-<div align="center" style="margin: 30px;">
-    <a href="https://refine.dev">
-    <img alt="refine logo" src="https://refine.ams3.cdn.digitaloceanspaces.com/readme/refine-readme-banner.png">
-    </a>
-</div>
-<br/>
-
-This [Refine](https://github.com/refinedev/refine) project was generated with [create refine-app](https://github.com/refinedev/refine/tree/master/packages/create-refine-app).
-
 ## Getting Started
 
 A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility ✨
@@ -47,3 +36,4 @@ To learn more about **Refine**, please check out the [Documentation](https://ref
 ## License
 
 MIT
+# Dashboard-With-Real-time-Data
